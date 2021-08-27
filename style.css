@@ -414,11 +414,11 @@ footer img {
     margin-right: 15px;
 }
 
-.footer__location p{
+.footer__location p {
     max-width: 500px;
 }
 
-.footer__links1{
+.footer__links1 {
     padding-top: 60px;
     padding-bottom: 40px;
 }
@@ -466,6 +466,10 @@ footer img {
         grid-column-end: 5;
         grid-row-start: 2;
         grid-row-end: 3;
+    }
+
+    .footer__links1 {
+        padding: 0px;
     }
 
 }
